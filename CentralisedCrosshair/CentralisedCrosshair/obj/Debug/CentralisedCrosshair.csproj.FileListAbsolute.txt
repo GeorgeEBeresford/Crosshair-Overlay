@@ -1,0 +1,22 @@
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.exe.config
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.exe
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.pdb
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.Crossshair.resources
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.Properties.Resources.resources
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.csproj.GenerateResource.Cache
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.exe
+c:\users\mrdinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.pdb
+C:\Users\MrDinnertime\documents\visual studio 2015\Projects\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.csprojResolveAssemblyReference.cache
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.exe.config
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.exe
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.Crossshair.resources
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.Properties.Resources.resources
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.csproj.GenerateResource.Cache
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.exe
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.pdb
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.pdb
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.csprojResolveAssemblyReference.cache
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.exe.manifest
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\bin\Debug\CentralisedCrosshair.application
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.exe.manifest
+Z:\Library Portal\CentralisedCrosshair\CentralisedCrosshair\obj\Debug\CentralisedCrosshair.application
