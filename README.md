@@ -1,3 +1,5 @@
+This project has been archived as I have no plans to make any changes to it. Other developers are perfectly welcome to fork this repository and make any changes
+
 # Crosshair-Overlay
 A movable overlay for a custom crosshair. Intended to be used over windowed or borderless window games which provide either non-existant or unsuitable crosshairs.
 
